@@ -1,0 +1,19 @@
+{
+  "name": "dating-app",
+  "version": "1.0.0",
+  "description": "dating app built in JS HTML & CSS",
+  "main": "index.js",
+  "scripts": {
+    "start": "script.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Atash3000/dating-app.git"
+  },
+  "author": "Atamurad Babakulyyev",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Atash3000/dating-app/issues"
+  },
+  "homepage": "https://github.com/Atash3000/dating-app#readme"
+}
